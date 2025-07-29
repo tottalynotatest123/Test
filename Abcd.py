@@ -1,7 +1,7 @@
 import requests
 
-USERNAME = 'your@email.com'
-PASSWORD = 'your_password'
+USERNAME = 'panviceontop@gmail.com'
+PASSWORD = 'qawszedx'
 
 response = requests.get('https://api.pcloud.com/userinfo', params={
     'getauth': 1,
